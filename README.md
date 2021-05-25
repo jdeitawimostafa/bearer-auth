@@ -29,11 +29,11 @@
 ## **Running the app**
 * **npm start**
 * **Endpoints:**
-   * **https://bearer-auth-2021.herokuapp.com/** home route (/)
-   * **https://bearer-auth-2021.herokuapp.com/signup** for create (/signup)
-   * **https://bearer-auth-2021.herokuapp.com/signin** for login (/signin)
-   * **https://bearer-auth-2021.herokuapp.com/users** for get (/users)
-   * **https://bearer-auth-2021.herokuapp.com/secret** for get (/secret)
+   *
+   *  for create (/signup)
+   *  for login (/signin)
+   *  for get (/users)
+   *  for get (/secret)
 ## **Tests**
 * **Unit Tests:** npm run test (tests for server, routes, and user model currently implemented):
   * Auth Middleware
