@@ -3,9 +3,9 @@
 ## LAB - 07
 ## **Deployment Test**
 ## **Author: Farah AlWahaibi**
-[PR LINK](https://github.com/farahalwahaibi/bearer-auth/pull/1)
-[Heroku APP](https://bearer-auth-2021.herokuapp.com/)
-[Report Test](https://github.com/farahalwahaibi/bearer-auth/actions)
+[PR LINK](https://github.com/jdeitawimostafa/bearer-auth/pull/1)
+[Heroku APP]()
+[Report Test](https://github.com/jdeitawimostafa/bearer-auth/actions)
 ## **Installation**
 * **dependencies :**
   * "@code-fellows/supergoose"
@@ -70,5 +70,9 @@
 * **Lint Tests:** npm run lint
 ***
 ## **UML Diagram**
+
+
 ![uml-diagram](1.JPG)
+
+
 ***Thank you!!***
