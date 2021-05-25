@@ -2,9 +2,9 @@
 
 ## LAB - 07
 ## **Deployment Test**
-## **Author: Farah AlWahaibi**
+## **Author: mostafa jdeitawi**
 [PR LINK](https://github.com/jdeitawimostafa/bearer-auth/pull/1)
-[Heroku APP]()
+[Heroku APP](https://bearer-auth-jdeitawi.herokuapp.com/)
 [Report Test](https://github.com/jdeitawimostafa/bearer-auth/actions)
 ## **Installation**
 * **dependencies :**
