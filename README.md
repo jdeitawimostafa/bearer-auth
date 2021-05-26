@@ -3,7 +3,7 @@
 ## LAB - 07
 ## **Deployment Test**
 ## **Author: mostafa jdeitawi**
-[PR LINK](https://github.com/jdeitawimostafa/bearer-auth/pull/1)
+[PR LINK](https://github.com/jdeitawimostafa/bearer-auth/pull/3)
 
 
 [Heroku APP](https://bearer-auth-jdeitawi.herokuapp.com/)
