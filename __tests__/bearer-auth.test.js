@@ -2,7 +2,7 @@
 
 process.env.SECRET = "toes";
 
-const supergoose = require('@code-fellows/supergoose');
+require('@code-fellows/supergoose');
 const middleware = require('../src/middleware/bearer.js');
 const Users = require('../src/models/users.js');
 const jwt = require('jsonwebtoken')
@@ -12,9 +12,8 @@ let users = {
 };
 
 // Pre-load our database with fake users
-beforeAll(async (done) => {
+beforeAll(async () => {
   await new Users(users.admin).save();
-  done();
 });
 
 describe('Auth Middleware', () => {

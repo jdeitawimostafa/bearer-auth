@@ -1,17 +1,17 @@
 'use strict';
 
 require('@code-fellows/supergoose');
-const middleware = require('');
-const Users = require('../../../src/auth/models/users.js');
+const middleware = require('../src/middleware/basic.js');
+const Users = require('../src/models/users.js');
 
 let users = {
   admin: { username: 'admin', password: 'password' },
 };
 
 // Pre-load our database with fake users
-beforeAll(async (done) => {
+beforeAll(async () => {
   await new Users(users.admin).save();
-  done();
+  
 });
 
 describe('Auth Middleware', () => {
