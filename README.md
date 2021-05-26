@@ -36,10 +36,9 @@
 * **npm start**
 * **Endpoints:**
    *
-   *  for create (/signup)
-   *  for login (/signin)
-   *  for get (/users)
-   *  for get (/secret)
+   *  for create (/api/v1/signup)
+   *  for login (/api/v1/signin)
+   *  for get (/api/v1/users)
 ## **Tests**
 * **Unit Tests:** npm run test (tests for server, routes, and user model currently implemented):
   * Auth Middleware
